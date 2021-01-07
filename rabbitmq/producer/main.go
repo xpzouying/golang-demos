@@ -8,11 +8,6 @@ import (
 	"github.com/streadway/amqp"
 )
 
-// const (
-// 	mqUser     = "rabbitmq"
-// 	mqPassword = "rabbitmq"
-// )
-
 var (
 	mqUser     string
 	mqPassword string
