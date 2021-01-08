@@ -9,7 +9,11 @@
 
 ## 1. RabbitMQ
 
-
-
 演示`RabbitMQ`的生产和消费。
+
+
+## 2. Prometheus + Grafana
+
+演示通过`Prometheus`对HTTP服务的接口进行数据采集，并且通过`Grafana`将QPS信息展示出来。
+
 
